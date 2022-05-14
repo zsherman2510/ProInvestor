@@ -1,0 +1,17 @@
+header {
+    width: 100%;
+    border-bottom: 1px solid white;
+    background-color: rgb(13, 156, 0);
+    color: #eee;
+}
+
+header .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+header .logo {
+    text-transform: uppercase;
+}

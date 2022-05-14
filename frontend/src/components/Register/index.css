@@ -1,0 +1,40 @@
+.register-form {
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    margin-top: 150px;
+}
+.register-form .page-title {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.register-form p {
+    margin: 20px auto;
+}
+form {
+    margin-top: 50px;
+   
+    
+}
+
+form button {
+    margin-top: 20px !important;
+}
+
+
+
+form .form-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+    
+}
+
+form .form-group_login {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 130px;
+}
